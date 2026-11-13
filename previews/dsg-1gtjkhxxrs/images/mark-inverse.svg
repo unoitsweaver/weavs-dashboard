@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" role="img" aria-label="DSG shield mark">
+  <path fill="#ffffff" d="M16 8h168c6 0 10 4 10 10v128c0 32-42 62-94 86C48 208 6 178 6 146V18C6 12 10 8 16 8z"/>
+  <path fill="#0B1F36" d="M52 52h28v28h28v28H80v28H52v-28H24V80h28V52z"/>
+  <g fill="#0B1F36" transform="translate(112,54)">
+    <path d="M8 52c0-28 14-46 36-46s36 18 36 46H8z"/>
+    <rect x="40" y="8" width="8" height="18" rx="3"/>
+    <rect x="0" y="48" width="80" height="10" rx="4"/>
+    <path d="M58 48h22l4 10H58z"/>
+  </g>
+</svg>

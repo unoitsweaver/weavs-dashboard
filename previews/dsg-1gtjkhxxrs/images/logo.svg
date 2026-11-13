@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">DSG Health and Safety Solutions</title>
+  <!-- Shield with white cross and hard hat, matching the business-card mark -->
+  <path fill="#0B1F36" d="M12 10h108c2 0 4 1.5 4 4v98c0 18-24 38-54 58-30-20-54-40-54-58V14c0-2.5 2-4 4-4z"/>
+  <!-- Equal-armed cross, left -->
+  <path fill="#fff" d="M44 36h20v22h22v20H64v22H44V78H22V58h22V36z"/>
+  <!-- Hard hat, right: brim and dome -->
+  <g fill="#fff" transform="translate(72,42)">
+    <path d="M6 36c0-16 9-28 26-28s26 12 26 28H6z"/>
+    <rect x="2" y="34" width="38" height="6" rx="2"/>
+    <rect x="36" y="32" width="18" height="8" rx="2"/>
+    <path d="M28 10v8" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="140" y="128" font-family="Barlow Condensed, Arial Narrow, Helvetica Neue, sans-serif" font-size="118" font-weight="800" fill="#0B1F36" letter-spacing="-3">DSG</text>
+  <g font-family="Barlow Condensed, Arial Narrow, Helvetica Neue, sans-serif" font-weight="700" fill="#0B1F36" letter-spacing="1.2">
+    <text x="400" y="68" font-size="28">HEALTH AND</text>
+    <text x="400" y="104" font-size="28">SAFETY</text>
+    <text x="400" y="140" font-size="28">SOLUTIONS</text>
+  </g>
+</svg>

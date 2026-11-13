@@ -1,0 +1,4 @@
+# Unlisted concept previews must not be crawled.
+User-agent: *
+Disallow: /previews/
+Disallow: /weavs-dashboard/previews/
